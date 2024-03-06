@@ -1,0 +1,317 @@
+{
+  "records": [
+    {
+      "id": "98",
+      "action": "debit",
+      "payment_type": "cod",
+      "client_id": "92",
+      "transaction_id": "",
+      "payment_status": "paid",
+      "amount": "580",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "32",
+      "payment_date": "2023-07-03",
+      "payment_time": "15:05:00",
+      "user_details": {
+        "id": 92
+      },
+      "created_at": "2023-07-03 15:06:11"
+    },
+    {
+      "id": "99",
+      "action": "credit",
+      "payment_type": "cod",
+      "client_id": "65",
+      "transaction_id": "",
+      "payment_status": "received",
+      "amount": "10000",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "45",
+      "payment_date": "2023-07-03",
+      "payment_time": "17:18:00",
+      "user_details": {
+        "id": 65
+      },
+      "created_at": "2023-07-03 17:18:36"
+    },
+    {
+      "id": "100",
+      "action": "credit",
+      "payment_type": "cod",
+      "client_id": "92",
+      "transaction_id": "",
+      "payment_status": "received",
+      "amount": "55945",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "20",
+      "payment_date": "2023-07-03",
+      "payment_time": "17:27:00",
+      "user_details": {
+        "id": 92
+      },
+      "created_at": "2023-07-03 17:27:55"
+    },
+    {
+      "id": "101",
+      "action": "credit",
+      "payment_type": "cod",
+      "client_id": "60",
+      "transaction_id": "testing",
+      "payment_status": "received",
+      "amount": "10000",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "50",
+      "payment_date": "2023-07-09",
+      "payment_time": "22:47:00",
+      "user_details": {
+        "id": 60
+      },
+      "created_at": "2023-07-09 22:47:36"
+    },
+    {
+      "id": "104",
+      "action": "credit",
+      "payment_type": "cod",
+      "client_id": "92",
+      "transaction_id": "testing",
+      "payment_status": "received",
+      "amount": "5000",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "100",
+      "payment_date": "2023-07-10",
+      "payment_time": "14:24:00",
+      "user_details": {
+        "id": 92
+      },
+      "created_at": "2023-07-10 14:25:06"
+    },
+    {
+      "id": "105",
+      "action": "debit",
+      "payment_type": "cod",
+      "client_id": "92",
+      "transaction_id": "testing debit",
+      "payment_status": "cancelled",
+      "amount": "150",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "10",
+      "payment_date": "2023-07-10",
+      "payment_time": "14:25:00",
+      "user_details": {
+        "id": 92
+      },
+      "created_at": "2023-07-10 14:25:45"
+    },
+    {
+      "id": "106",
+      "action": "credit",
+      "payment_type": "cheque",
+      "client_id": "99",
+      "transaction_id": "testing client",
+      "payment_status": "received",
+      "amount": "5000",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "10",
+      "payment_date": "2023-07-10",
+      "payment_time": "14:30:00",
+      "user_details": {
+        "id": 99
+      },
+      "created_at": "2023-07-10 14:30:36"
+    },
+    {
+      "id": "107",
+      "action": "debit",
+      "payment_type": "cod",
+      "client_id": "65",
+      "transaction_id": "",
+      "payment_status": "received",
+      "amount": "5",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "32",
+      "payment_date": "2023-07-13",
+      "payment_time": "17:12:00",
+      "user_details": {
+        "id": 65
+      },
+      "created_at": "2023-07-13 17:12:31"
+    },
+    {
+      "id": "108",
+      "action": "debit",
+      "payment_type": "cod",
+      "client_id": "65",
+      "transaction_id": "testing",
+      "payment_status": "received",
+      "amount": "500",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "385",
+      "payment_date": "2023-07-13",
+      "payment_time": "17:13:00",
+      "user_details": {
+        "id": 65
+      },
+      "created_at": "2023-07-13 17:13:48"
+    },
+    {
+      "id": "109",
+      "action": "credit",
+      "payment_type": "cheque",
+      "client_id": "65",
+      "transaction_id": "testing",
+      "payment_status": "received",
+      "amount": "500",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "300",
+      "payment_date": "2023-07-13",
+      "payment_time": "17:14:00",
+      "user_details": {
+        "id": 65
+      },
+      "created_at": "2023-07-13 17:15:00"
+    },
+    {
+      "id": "110",
+      "action": "credit",
+      "payment_type": "cod",
+      "client_id": "99",
+      "transaction_id": "testing",
+      "payment_status": "received",
+      "amount": "50",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "5",
+      "payment_date": "2023-07-14",
+      "payment_time": "17:18:00",
+      "user_details": {
+        "id": 99
+      },
+      "created_at": "2023-07-13 17:19:04"
+    },
+    {
+      "id": "111",
+      "action": "debit",
+      "payment_type": "cod",
+      "client_id": "99",
+      "transaction_id": "testing paid",
+      "payment_status": "paid",
+      "amount": "1093",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "10",
+      "payment_date": "2023-07-14",
+      "payment_time": "23:46:00",
+      "user_details": {
+        "id": 99
+      },
+      "created_at": "2023-07-14 23:47:06"
+    },
+    {
+      "id": "112",
+      "action": "credit",
+      "payment_type": "cod",
+      "client_id": "99",
+      "transaction_id": "11",
+      "payment_status": "paid",
+      "amount": "500",
+      "currency_rate": "285",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "23",
+      "payment_date": "2023-07-15",
+      "payment_time": "00:02:00",
+      "user_details": {
+        "id": 99
+      },
+      "created_at": "2023-07-15 00:02:34"
+    },
+    {
+      "id": "131",
+      "action": "credit",
+      "payment_type": "online",
+      "client_id": "118",
+      "transaction_id": "testing",
+      "payment_status": "received",
+      "amount": "3687900",
+      "currency_rate": "285",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "5",
+      "payment_date": "2023-11-06",
+      "payment_time": "04:26:00",
+      "user_details": {
+        "id": 118,
+        "name": "newclient",
+        "email": null,
+        "role": "client"
+      },
+      "created_at": "2023-11-06 16:27:29"
+    },
+    {
+      "id": "132",
+      "action": "credit",
+      "payment_type": "online",
+      "client_id": "118",
+      "transaction_id": "test",
+      "payment_status": "received",
+      "amount": "1975820",
+      "currency_rate": "385",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "2",
+      "payment_date": "2023-11-06",
+      "payment_time": "04:30:00",
+      "user_details": {
+        "id": 118,
+        "name": "newclient",
+        "email": null,
+        "role": "client"
+      },
+      "created_at": "2023-11-06 16:30:40"
+    },
+    {
+      "id": "133",
+      "action": "credit",
+      "payment_type": "online",
+      "client_id": "118",
+      "transaction_id": "test",
+      "payment_status": "received",
+      "amount": "149695",
+      "currency_rate": "299.39",
+      "converted_currency": "€",
+      "transaction_currency": "pkr",
+      "quantity": "1",
+      "payment_date": "2023-11-06",
+      "payment_time": "04:34:00",
+      "user_details": {
+        "id": 118,
+        "name": "newclient",
+        "email": null,
+        "role": "client"
+      },
+      "created_at": "2023-11-06 16:37:03"
+    }
+  ]
+}
